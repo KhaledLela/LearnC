@@ -1,3 +1,5 @@
+Learn the C programming language from https://www.linkedin.com/learning/advanced-c-programming
+
 Compile using:
 
 `gcc -Wall -o program program.c`
